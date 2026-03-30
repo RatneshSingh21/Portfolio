@@ -27,7 +27,7 @@ const about = () => {
                 Biography
               </h2>
               <p className='font-medium'>
-Hi, I&apos;m Ratnesh Singh,ggg a Full Stack Web Developer with hands-on experience in building scalable and efficient web applications using Java, React.js, and SQL-based systems. Currently, I am working as a Full Stack Developer Intern at Digicode Software, where I contribute to developing and maintaining real-world applications.
+Hi, I&apos;m Ratnesh Singh, a Full Stack Web Developer with hands-on experience in building scalable and efficient web applications using Java, React.js, and SQL-based systems. Currently, I am working as a Full Stack Developer Intern at Digicode Software, where I contribute to developing and maintaining real-world applications.
 </p>
 
 <p className='my-4 font-medium'>
