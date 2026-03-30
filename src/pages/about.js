@@ -26,14 +26,17 @@ const about = () => {
               <h2 className=' mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>
                 Biography
               </h2>
-              <p className='font-medium'>Hi, I&apos;m Ratnesh Singh, a web developer and UI/UX designer with a passion for creating beautiful, functional,
-                and user-centered digital experiences.</p>
-              <p className='my-4 font-medium'>I believe that design is about more than just making things look pretty – it&apos;s about solving problems and
-                creating intuitive, enjoyable experiences for users.
-              </p>
-              <p className='font-medium'>Whether I&apos;m working on a website, mobile app, or
-                other digital product, I bring my commitment to design excellence and user-centered thinking to
-                every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.</p>
+              <p className='font-medium'>
+Hi, I&apos;m Ratnesh Singh, a Full Stack Web Developer with hands-on experience in building scalable and efficient web applications using Java, React.js, and SQL-based systems. Currently, I am working as a Full Stack Developer Intern at Digicode Software, where I contribute to developing and maintaining real-world applications.
+</p>
+
+<p className='my-4 font-medium'>
+I specialize in integrating frontend and backend systems using RESTful APIs, optimizing database queries, and writing clean, maintainable code. I have also worked with technologies like JSP, Servlets, and Spring framework to build dynamic and robust applications.
+</p>
+
+<p className='font-medium'>
+With a strong foundation in software engineering principles and problem-solving, I focus on delivering reliable, user-friendly, and business-driven solutions. I am always eager to learn new technologies and continuously improve my development skills.
+</p>
             </div>
             <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light dark:bg-dark dark:border-light p-8 xl:col-span-4 md:order-1 md:col-span-6 '>
               <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-dark dark:bg-light' />

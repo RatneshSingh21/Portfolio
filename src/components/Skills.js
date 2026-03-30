@@ -27,16 +27,27 @@ const Skills = () => {
             lg:p-6 md:p-4 xs-text-xs xs:p-2' whileHover={{scale:1.05}} >
                 Web
             </motion.div>
-            <Skill name="HTML" x="-22vw"  y="2vw"/>
-            <Skill name="CSS" x="-5vw"  y="-9vw"/>
-            <Skill name="JavaScript" x="20vw"  y="6vw"/>
-            <Skill name="ReactJS" x="0vw"  y="14vw"/>
-            <Skill name="Java" x="-20vw"  y="-14vw"/>
-            <Skill name="SQL" x="13vw"  y="-12vw"/>
-            <Skill name="Talwind CSS" x="30vw"  y="-5vw"/>
-            <Skill name="JSP" x="0vw"  y="-18vw"/>
-            <Skill name="Git" x="-24vw"  y="18vw"/>
-            <Skill name="Github" x="22vw"  y="18vw"/>
+            {/* INNER ORBIT */}
+<Skill name="HTML & CSS" x="-20vw"  y="2vw"/>
+<Skill name="JavaScript" x="-5vw"  y="-10vw"/>
+<Skill name="ReactJS" x="18vw"  y="5vw"/>
+<Skill name="Framer Motion" x="0vw"  y="14vw"/>
+
+{/* MIDDLE ORBIT */}
+<Skill name="Java" x="-22vw"  y="-14vw"/>
+<Skill name="SQL" x="14vw"  y="-12vw"/>
+<Skill name="Tailwind CSS" x="28vw"  y="-4vw"/>
+<Skill name="JSP" x="0vw"  y="-18vw"/>
+<Skill name="Servlets" x="-10vw" y="18vw"/>
+<Skill name="Spring" x="22vw" y="16vw"/>
+
+{/* OUTER ORBIT */}
+<Skill name="Spring Boot" x="-30vw" y="8vw"/>
+<Skill name="Spring MVC" x="30vw" y="10vw"/>
+<Skill name="Hibernate" x="-28vw" y="-6vw"/>
+<Skill name="Git" x="-24vw"  y="20vw"/>
+<Skill name="Github" x="24vw"  y="20vw"/>
+<Skill name="XAMPP" x="5vw" y="22vw"/>
       </div>
     </>
   )

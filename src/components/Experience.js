@@ -44,6 +44,14 @@ const Experience = () => {
           md:w-[2px] md:left-[30px] xs:left-[20px]
         '/>
         <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+           <Details
+    position="Full Stack Developer Intern"
+    company="Digicode Software Pvt. Ltd."
+    companyLink="#" // add actual link if you have
+    time="May 2025 - Present"
+    address="Noida, Uttar Pradesh"
+    work="Developed and maintained interactive UI components using React.js, improving usability and responsiveness. Integrated frontend with backend services using RESTful APIs and handled application logic effectively. Debugged and fixed application issues, improving system stability and performance. Assisted in implementing client requirements aligned with business needs. Worked with SQL databases, optimizing queries for efficient data handling. Deployed applications and provided ongoing support, bug fixes, and enhancements."
+  />
          <Details
         position="Java Full Stack Intern" company="Abesit"
         companyLink="https://www.abesit.in/"
