@@ -45,12 +45,12 @@ const Experience = () => {
         '/>
         <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
            <Details
-    position="Full Stack Developer Intern"
-    company="Digicode Software Pvt. Ltd."
+    position="Full Stack Web Developer "
+    company="Campaigning Source"
     companyLink="#" // add actual link if you have
     time="May 2025 - Present"
     address="Noida, Uttar Pradesh"
-    work="Developed and maintained interactive UI components using React.js, improving usability and responsiveness. Integrated frontend with backend services using RESTful APIs and handled application logic effectively. Debugged and fixed application issues, improving system stability and performance. Assisted in implementing client requirements aligned with business needs. Worked with SQL databases, optimizing queries for efficient data handling. Deployed applications and provided ongoing support, bug fixes, and enhancements."
+    work="Developed and maintained scalable frontend applications using React.js for an ERP system, primarily focusing on the Inventory Management module. Built responsive UI components for stock tracking, product management, and workflow optimization, improving usability and performance. Integrated RESTful APIs to enable real-time data updates and seamless frontend-backend communication. Designed reusable components and implemented state management using React Hooks. Contributed to the migration of a Payroll system from .NET to Java (Spring Boot) by understanding existing logic and aligning frontend functionality. Collaborated with cross-functional teams to deliver business-driven solutions and enhance system efficiency."
   />
          <Details
         position="Java Full Stack Intern" company="Abesit"
