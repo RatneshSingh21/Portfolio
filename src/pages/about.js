@@ -3,7 +3,7 @@ import Layout from '@/components/Layout'
 import Head from 'next/head'
 import Image from 'next/image'
 import React from 'react'
-import profilePic from "../../public/images/profile/developer-pic-4.png"
+import profilePic from "../../public/images/profile/pic.png"
 import Skills from '@/components/Skills'
 import Experience from '@/components/Experience'
 import Education from '@/components/Education'
