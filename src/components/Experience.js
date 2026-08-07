@@ -50,7 +50,7 @@ const Experience = () => {
     companyLink="#" // add actual link if you have
     time="May 2025 - Present"
     address="Noida, Uttar Pradesh"
-    work="Developed and maintained scalable frontend applications using React.js for an ERP system, primarily focusing on the Inventory Management module. Built responsive UI components for stock tracking, product management, and workflow optimization, improving usability and performance. Integrated RESTful APIs to enable real-time data updates and seamless frontend-backend communication. Designed reusable components and implemented state management using React Hooks. Contributed to the migration of a Payroll system from .NET to Java (Spring Boot) by understanding existing logic and aligning frontend functionality. Collaborated with cross-functional teams to deliver business-driven solutions and enhance system efficiency."
+     work="Developing backend services for MyCRM, a full-featured CRM platform, using Core Java and Spring Boot with Spring Security JWT authentication and role-based access control for Admin, Manager, and Agent users. Contributing to a Payroll Management System using Java and Spring Boot, building salary processing, deduction calculation, and HR operations features. Building and maintaining the React.js frontend for a production enterprise system, including an Inventory Management module with stock tracking and product management, using reusable components with React Hooks and Tailwind CSS. Integrating REST APIs for real-time data synchronization between frontend and backend services."
   />
          <Details
         position="Java Full Stack Intern" company="Abesit"
